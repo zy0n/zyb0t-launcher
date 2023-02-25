@@ -1,0 +1,15 @@
+{
+  "name": "zyb0t-launcher",
+  "version": "1.0.0",
+  "description": "Docker Launcher for zyb0t & gunbot",
+  "main": "index.js",
+  "scripts": {
+    "compose": "docker compose -f 'docker-compose.yml' up -d --build"
+  },
+  "keywords": [
+    "zyb0t",
+    "gunbot"
+  ],
+  "author": "zy0n.bear",
+  "license": "MIT"
+}

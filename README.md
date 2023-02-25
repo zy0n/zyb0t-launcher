@@ -44,6 +44,8 @@ They share :
   ```sh
   cd gunthy_linux/zybot
   ./zyb0t-linux
+  # The full path to gunbot is 
+  # /data/gunthy_linux
   ```
 > How to get telegram_chatId
 > Contact @myidbot https://t.me/myidbot on telegram
